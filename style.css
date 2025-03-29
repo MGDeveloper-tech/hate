@@ -1,0 +1,41 @@
+body {
+    background-image: url(cudadvar.png);
+    color: white;
+}
+
+.topp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.listtop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.cry {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: green;
+
+}
+
+.shut {
+    border: 1px solid black;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+
+    background-color: white transparent;
+
+}
+
+.lefttt {
+    margin-top: 300px;
+}
